@@ -8,17 +8,17 @@ const Navigation = () => {
       <Nav className="App">
         <h1>React Router Mini</h1>
         <NavItem>
-          <Link className="nav-link" to="/">
+          <Link className="Nav-link" to="/">
             Home
           </Link>
         </NavItem>
         <NavItem>
-          <Link className="nav-link" to="/about">
+          <Link className="Nav-link" to="/about">
             About
           </Link>
         </NavItem>
         <NavItem>
-          <Link className="nav-link" to="/contact">
+          <Link className="Nav-link" to="/contact">
             Contact
           </Link>
         </NavItem>
