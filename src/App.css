@@ -4,7 +4,13 @@
 
 .Nav-link {
   padding: 2rem;
+  text-decoration: none;
 
+}
+
+.Nav-link:hover {
+  text-decoration: none;
+  background-color: lightgrey;
 }
 
 .nav-item {
